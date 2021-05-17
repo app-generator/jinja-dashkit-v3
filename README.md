@@ -15,8 +15,9 @@ Jinja/Flask template provided by AppSeed on top of Dashkit PRO, a modern dashboa
 
 > Links
 
-- [Flask Dashkit PRO](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) - product page
-- [Jinja Dashkit PRO](https://jinja-dashkit-v3.appseed-srv1.com/) - LIVE deployment
+- [Flask Dashkit PRO v3](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) - product page
+- [Jinja Dashkit PRO v3](https://jinja-dashkit-v3.appseed-srv1.com/) - LIVE deployment
+- [Jinja Dashkit PRO v3](https://docs.appseed.us/products/jinja-templates/dashkit-v3) - product documentation
 
 <br />
 
@@ -216,4 +217,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-Jinja Dashkit PRO (styled with Bulma CSS) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+Jinja Dashkit PRO v3 (legacy version - styled with Bulma CSS) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
